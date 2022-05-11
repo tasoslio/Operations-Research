@@ -5,22 +5,15 @@ This assignment took place in the course "Operations-Research" of Aristotle Univ
 Assignment's Presentation(only in Greek) : [here](Project_OR_2021.pdf)
 
 ### Part 1
-This part implements the following:
-1. Reconstruction of RGB image from Bayer pattern.
-2. Downsampling of RGB image.
-3. Quantization of RGB image.
-4. PPM representation.
+This part implements a case of the known problem VRP(Vehicle Routing Problem).
 
 ### Part 2
-This part implements the following:
-1. Representation of an image as a graph
-2. Image segmentation with spectral clustering method.
-3. Image segmentation with normalized cuts(n-cuts) either recursive or not.
+This part implements a simple case of TSP Problem.
 
 
 
 ##  :wrench: Development
-The files of the assignment were created with MATLAB R2018b.
+The files of the assignment were created with conda 4.10.1.
 
 ## :question: FAQ
 If there are any questions, create an issue in this repository.
