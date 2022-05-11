@@ -13,7 +13,7 @@ This part implements a simple case of TSP Problem.
 
 
 ##  :wrench: Development
-The files of the assignment were created with conda 4.10.1.
+The files of the assignment were created with conda 4.10.1 and gurobipy 9.1.2.
 
 ## :question: FAQ
 If there are any questions, create an issue in this repository.
